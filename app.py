@@ -120,7 +120,7 @@ def generate_company_report(LinkedInData, WebsiteData):
 
 
 #Functions to Download Report
-# pypandoc.download_pandoc()
+pypandoc.download_pandoc()
 
 
 # Function to create a docx
